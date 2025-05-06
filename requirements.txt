@@ -1,7 +1,8 @@
+streamlit
+streamlit-lottie
 langchain
 langchain-openai
 langchain-google-genai
-streamlit
 chromadb
 pypdf
 python-dotenv
